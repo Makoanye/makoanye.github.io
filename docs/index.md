@@ -20,27 +20,23 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Makoanye Maphutseng</h1>
+  <p><strong>Integrated Catchment and Water Resources Management (ICWRM)</strong></p>
+  <p><em>Hydrological Modeling | Climate Modeling | LULUCF Expert | Water Resources Management | Soil Science | Turning Spatial Data into Insights | GIS | Remote Sensing | Python | R |</em></p>
 </div>
 
 ---
 
-## About Me
+## **About Me**
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am an environmental modeller and soil scientist with expertise in land-use systems, climate change impacts, geospatial analysis, and national greenhouse gas inventories. Over five years of professional experience supporting environmental assessment, climate reporting, and sustainable resource management through advanced data analysis and modelling.
+Experienced in integrating land-use, climate, soil, hydrological, and remote sensing datasets to support evidence-based decision-making. I am skilled in SWAT+ hydrological modelling, CMIP6 climate scenario analysis, 
+XGBoost machine learning, GIS, remote sensing, Google Earth Engine, R, and Python. I have proven experience coordinating AFOLU/FOLU greenhouse gas inventories in accordance with the 2006 IPCC Guidelines and 
+supporting national reporting under the UNFCCC Enhanced Transparency Framework.
+I have keen nterest in sustainable land-use planning, environmental modelling, carbon dynamics, biodiversity conservation, and climate adaptation research. I am currently seeking opportunities in the Water and Land Sector in Southern African countries.
 
 </div>
 
@@ -53,12 +49,12 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/MAKOANYE MAPHUTSENG - CV.pdf){ .md-button }
 
 
 ---
 
-## Skills
+## **Skills**
 
 <div class="grid cards" markdown>
 
@@ -66,19 +62,34 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS 
+    - ArcGIS Pro 
+    - Google Earth Engine
+    - R & Python
+    - SWAT+ & HEC-HMS Hydrological Models
+    - ILWIS
+    - Remote Sensing
+    - Land Use / Land Cover (LULC) Mapping
+    - Spatial Analysis & Suitability Mapping
+    - Watershed Delineation & Hydrological Modeling
+    - Raster & Vector Geoprocessing
+    - Cartography & Map Layout Design
 
--   :material-code-braces:{ .lg .middle } **Programming**
+
+-   :material-code-braces:{ .lg .middle } **Climate & Environmental Analytics**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - NDVI & Vegetation Health Analysis 
+    - Rainfall & Climate Data Processing (CMIP6, CHIRPS & ERA5-Land Data)
+    - Soil Moisture Mapping
+    - Terrain & Slope Analysis
+    - Agricultural & Environmental Monitoring
+    - Climate-Smart Agriculture Applications
+    - SSP2-4.5 & SSP5-8.5 Scenario Analysis & Projections
+    - CMIP6 Data Downscaling 
+    - IPCC Software
+
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
@@ -89,28 +100,38 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-   :material-earth:{ .lg .middle } **Hazard & Risk Mapping**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    - Flood Hazard Mapping (100-Year Return Period)
+    - Landslide Hazard Mapping
+    - ESA Copernicus DEM Processing
+    - HEC-HMS & HEC-RAS Integration & Raster Analysis 
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-database:{ .lg .middle } **Data Analytics & Geospatial Data**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Google Sheets & Microsoft Excel Analytics
+    - Data Cleaning & Validation 
+    - Geospatial Data Management
+    - GeoJSON, GeoTIFF, Shapefile, NetCDF, etc
+    - Open Geospatial Datasets
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **Agriculture & Decision Support**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Agricultural Resource Mapping
+    - Land Sutability Analysis
+    - Catchment & Water Resources Applications
+    - GIS for Food Security & Sustainability
+    - Decision SUpport for Climate-Resilient Agriculture
+
+-    :material-sitemap:{ .lg .middle } **Remote Sensing & Image Classification**
+
+    - Supervised & Unsupervised Classification in Google Earth Engine, QGIS, and ArcGIS Pro
+    - Satelite Image Interpretation & Analysis
+    - Sentinel-1, Sentinel-2, and Landsat-6,-7,-8 Data Processing
 </div>
 
 
