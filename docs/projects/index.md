@@ -21,14 +21,14 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Research-Project](research-project.md)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`SWAT+` `R` `QGIS` `ArcGISPro` `Python`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](research-project.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>

@@ -139,5 +139,5 @@ I have keen nterest in sustainable land-use planning, environmental modelling, c
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/Makoanye/makoanye.github.io){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/makoanye-maphutseng-1789508a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWoQ893msRUGcP2c3YiGuBw%3D%3D){ .md-button }
